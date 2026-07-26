@@ -113,7 +113,7 @@ the system will automatically learn which proxies perform poorly and stop using 
 ### Usage
 
 ```
-python instagram.py -u <jadeen_04> -p <passlist>
+python instagram.py -u <username> -p <passlist>
 ```
 
 ### Run
